@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-menu{
+    background-color: black;
+}
+.nav-menu ul{
+    padding: 15px;
+}
+.nav-menu li{
+    display: inline;
+    margin-left: 5px;
+}
+.nav-menu li a{    
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+}
+.content{
+    height: 85vh;
+}
+.footer-area{
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
